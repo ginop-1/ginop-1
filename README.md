@@ -10,4 +10,4 @@ _[Github](https://github.com/ginop-1/)_
 
 _[Telegram](https://telegra.ph/Ginos-bio-03-08)_
 
-_[Reddit]_(https://www.reddit.com/user/Take_F)
+_[Reddit](https://www.reddit.com/user/Take_F)_
