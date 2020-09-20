@@ -1,6 +1,6 @@
 ## GinoP
 
-- Student
+- Student, 16yo, Italy 🇮🇹
 - Linux
 - C++
 
