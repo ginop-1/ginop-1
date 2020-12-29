@@ -4,7 +4,7 @@
 - Linux
 - C++
 
-<div align="center">
+<div>
   <h2>Social:</h2>
 </div>
 
