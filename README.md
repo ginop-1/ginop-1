@@ -1,8 +1,6 @@
 <h1>GinoP</h1>
 
-- Student, 16yo, Italy 🇮🇹
-- Linux
-- C++
+Student, 16yo, Italy 🇮🇹
 
 <div>
   <h2>Social:</h2>
