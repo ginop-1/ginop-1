@@ -3,7 +3,6 @@
 📚 Student </br>
 🐧 Linux user </br>
 🇮🇹 Italy </br>
-👨 17 y.o. </br>
 
 <h3> Contact Me: </h3>
   
